@@ -1,0 +1,9 @@
+.DS_Store
+*.synctex.gz
+*.aux
+*.toc
+*.log
+*.out
+.idea/workspace.xml
+*/cmake-build-debug
+cmake-build-debug
